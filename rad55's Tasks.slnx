@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="Directory.Packages.props" />
+  </Folder>
+  <Project Path="rad55_s_Tasks.Android/rad55_s_Tasks.Android.csproj" />
+  <Project Path="rad55_s_Tasks.Browser/rad55_s_Tasks.Browser.csproj" />
+  <Project Path="rad55_s_Tasks.Desktop/rad55_s_Tasks.Desktop.csproj" />
+  <Project Path="rad55_s_Tasks.iOS/rad55_s_Tasks.iOS.csproj" />
+  <Project Path="rad55_s_Tasks/rad55_s_Tasks.csproj" />
+</Solution>
